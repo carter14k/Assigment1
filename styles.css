@@ -8,3 +8,9 @@ h1{
     color: rgb(146, 119, 172);
     font-size: 50px;
 }
+nav{
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(232, 227, 237);
+}

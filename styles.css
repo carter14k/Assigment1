@@ -64,3 +64,13 @@ footer{
     text-align: center;
     font-size: small;
 }
+@media (max-width: 600px) {
+    .photo-gallery {
+        grid-template-columns: 1fr;
+    }
+
+    .photo-card {
+        width: 100%;
+        box-sizing: border-box;
+    }
+}

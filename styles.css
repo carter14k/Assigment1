@@ -34,8 +34,10 @@ p{
     margin-bottom: 30px;
 }
 img{
-    width: 250px;
-    max-width: 250px;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    box-sizing: border-box;
     border: solid rgb(155, 71, 141) 3px;
     border-radius: 10px;
 }

@@ -39,4 +39,8 @@ img{
     border: solid rgb(155, 71, 141) 3px;
     border-radius: 10px;
 }
-
+.photo-gallery{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}

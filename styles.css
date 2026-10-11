@@ -14,3 +14,9 @@ nav{
     margin: 20px;
     background-color: rgb(232, 227, 237);
 }
+nav a{
+    text-decoration-line: none;
+    color: rgb(22, 4, 4);
+    padding: 20px;
+}
+

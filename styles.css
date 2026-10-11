@@ -28,4 +28,8 @@ h2{
     font-size: larger;
     margin-bottom: 20px;
 }
-
+p{
+    font-size: medium;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
